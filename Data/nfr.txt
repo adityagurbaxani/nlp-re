@@ -115,7 +115,7 @@ O:The product will function alongside server software on any operating system wh
 O:The product will require collaboration with a database management system (DBMS).  The DBMS may be located on the same machine as the product or on a separate machine residing on the same computer network.
 O: The product must make use of web/application server technology.  Open source examples include Apache web server  Tomcat  and the JBoss application server.
 O: A database management system such as Oracle  DB2  MySql or HSQL will need to be integrated with the product.
-LF: The product�s Look and Feel shall be able to incorporate aspects of the customer�s organization such as logo  branding  and identity
+LF: The product's Look and Feel shall be able to incorporate aspects of the customer's organization such as logo  branding  and identity
 LF:The product shall have a conservative and professional appearance.
 US:The product shall make the users want to use it. 80% of the users surveyed report they are regularly using the product after the first 2 weeks post-launch.
 US:The product shall be easy to use. 90% of users will be able to successfully reserve a conference room within 5 minutes of product use.
@@ -126,7 +126,7 @@ US: An employee will be able to successfully use the product within a few minute
 US:The product shall use a standard navigation menu familiar to most web users.
 US:The product shall allow for intuitive searching of available conference rooms.
 US:The product shall conform to the Americans with Disabilities Act.
-PE:The response shall be fast enough to avoid interrupting the user�s flow of thought.  90% of tasks shall complete within 5 seconds.  98% of tasks shall complete within 8 seconds.
+PE:The response shall be fast enough to avoid interrupting the user's flow of thought.  90% of tasks shall complete within 5 seconds.  98% of tasks shall complete within 8 seconds.
 A: Aside from server failure  the software product shall achieve 99.99% up time.
 FT:The product shall create an exception log of problems encountered within the product for transmission to our company for analysis and resolution.
 SC: The product shall be capable of handling up to 1 000 concurrent requests.  This number will increase to 2 000 by Release 2.  The concurrency capacity must be able to handle peak scheduling times such as early morning and late afternoon hours.
@@ -141,21 +141,21 @@ O:The product shall be available for distribution as a packaged CD.
 O: The product will be available for licensing as a one-server  two-five servers  or five-or-more servers license.
 US:A new user must be able to be added to the system within 10 minutes.  90% of new users are able to log into the system within 10 minutes.
 MN:The product must be designed using Design Patterns and coding best practices.  90% of maintenance software developers are able to integrate new functionality into the product with 2 working days.
-MN:The product must be highly configurable for use with various database management systems for the end users.  80% of end users are able to integrate new database management systems with the product without changing the product�s software code.
+MN:The product must be highly configurable for use with various database management systems for the end users.  80% of end users are able to integrate new database management systems with the product without changing the product's software code.
 MN:Maintenance releases will be offered to customers once a year.  The releases shall take no longer than 5 minutes for 80% of the customer base to install.
-US:Every registered user will have access to the product�s support site via the Internet.  70% of registered users shall find a solution to their problem within 5 minutes of using the support site.
-MN:The customer shall be able to easily integrate new building maps with the product throughout the product�s lifecycle.  Integration of new maps with the product shall be possible with little to no support from product support staff.
-US: The product shall be translated into foreign languages other than the target market countries� languages in future releases.  For each emerging target market  it shall take no more than 5 days to configure the product for that market�s language.
+US:Every registered user will have access to the product's support site via the Internet.  70% of registered users shall find a solution to their problem within 5 minutes of using the support site.
+MN:The customer shall be able to easily integrate new building maps with the product throughout the product's lifecycle.  Integration of new maps with the product shall be possible with little to no support from product support staff.
+US: The product shall be translated into foreign languages other than the target market countries' languages in future releases.  For each emerging target market  it shall take no more than 5 days to configure the product for that market's language.
 O: The product is expected to integrate with multiple database management systems.  The product will operate with Oracle  SQL Server  DB2  MySQL  HSQL  and MS Access.
 O:The product shall be able to be installed in any operating environment within 2 days.
 SE:The product shall ensure that only company employees or external users with company-approved user IDs may have product access.  100% of all logons shall be by either company employees or external users with company-approved user IDs.
 SE:Only managers are able to perform search queries for reservations by user.  100% of all search queries for reservations by user shall be from logons of only management logons.
-SE:The product shall ensure that the database�s data corresponds to the data entered by the user.  Each conference room reservation in the system will contain the same information as was entered by the user.
-SE:The product shall prevent the input of malicious data.  The product and/or adjacent hardware/software systems� data shall remain 100% uncorrupted each time malicious data is input into the product.
+SE:The product shall ensure that the database's data corresponds to the data entered by the user.  Each conference room reservation in the system will contain the same information as was entered by the user.
+SE:The product shall prevent the input of malicious data.  The product and/or adjacent hardware/software systems' data shall remain 100% uncorrupted each time malicious data is input into the product.
 FT:The product and/or dependent databases/filesystems shall remain operational as a result of the input of malicious data.  The product and/or dependent databases/filesystems shall not crash 100% of the time that malicious data is input into the product.
 SE:The product shall have the ability to receive automatic software updates as new threats emerge.  100% of customers will be able to receive automatic software updates transmitted to the installed product.
 SC:The language of the product shall accommodate all of the target market countries. 90% of survey respondents from each target market country will find that the language of the product is acceptable.
-US:The product shall be able to display calendar dates and times according to the user�s locale.  90% of survey respondents from each target market country will find that the date and time formatting of the product is correct.
+US:The product shall be able to display calendar dates and times according to the user's locale.  90% of survey respondents from each target market country will find that the date and time formatting of the product is correct.
 O:The product must be developed with the J2SE/J2EE programming language libraries
 F:The product shall record meeting entries.
 F:The product will notify employees of meeting invitations.
@@ -209,8 +209,8 @@ F:The System shall generate Inventory Quantity Adjustment document based on prod
 F:The System shall generate Inventory Quantity Adjustment document automatically when daily Product Sales data is available.
 PE:Administrator shall be able to activate a pre-paid card via the Administration section in under 5 seconds.
 PE: Customer shall be able to check the status of their prepaid card  by entering in the PIN number  in under 5 seconds.
-PE:System shall let customers register on the website as a �pay as you go� user in under 5 minutes.
-PE:System shall let customers register on the website as a �unlimited movie subscriber� user in under 10 minutes.
+PE:System shall let customers register on the website as a 'pay as you go' user in under 5 minutes.
+PE:System shall let customers register on the website as a 'unlimited movie subscriber' user in under 10 minutes.
 PE:System shall let existing customers log into the website with their email address and password in under 5 seconds.
 PE: System shall let customers cancel their account  process shall take no longer than 2 minutes.  Database will mark the account as inactive  and user will not be able to log into the website.
 PE:System shall let administrator de-activate a customer account in under 1 minute. Customer will no longer be able to access the website.
@@ -226,14 +226,14 @@ US: Users should only have to navigate through a maximum of 4 pages  to create a
 US:Users should be able to access their streaming movies in under 2 clicks after logging into the website.
 US:An anonymous survey will show that 70% of customers are comfortable purchasing streaming movies after 2 weeks using the website.
 US:An anonymous survey will show that 95% of customers are comfortable using and purchasing pre-paid cards after a month of using the system.
-US:The product shall retain the customer�s buying preferences and information.
+US:The product shall retain the customer's buying preferences and information.
 US:The product shall be easy for customers with novice skills on the  Internet to purchase and watch streaming movies.  Customers should be able to purchase and watch a pre-determined movie in under 3 minutes.
 US:The product shall use symbols and words that are naturally understandable by users familiar with websites
 US:The website will use standard Internet conventions when interacting with the user.
 PE: Any interface between a user and the automated system shall have a maximum response time of 5 seconds  unless noted by an exception below.
 PE: When purchasing a streaming movie or pre-paid card via credit card  the processing time should have a maximum response time of 15 seconds.
-PE: When streaming a movie  the buffering time should take no longer than 10 seconds (plus any latency on the user�s connection.)
-PE: While streaming a movie  buffering should only occur if there is latency in the user�s connection.
+PE: When streaming a movie  the buffering time should take no longer than 10 seconds (plus any latency on the user's connection.)
+PE: While streaming a movie  buffering should only occur if there is latency in the user's connection.
 SE: All credit card information will be secured on the server  and only accessible by authorized Izogn administrators.  Information will be encrypted in the database.
 A: The website shall be available for use 24 hours per day  365 days per year.
 A:The website shall achieve 99.5% up time.
@@ -269,7 +269,7 @@ SE: The website shall protect itself from intentional abuse  and notify the admi
 SE:Data integrity scripts will be run on a weekly basis to verify the integrity of the database.
 SE: The website shall make its user aware of its information practices before collection data from them via a Privacy Policy  accessible on all pages of the website.
 SE:The system shall notify customers of changes to its information policy.
-SE:The system shall reveal private information only in compliance with the organization�s information policy.
+SE:The system shall reveal private information only in compliance with the organization's information policy.
 SE: All customer information will be stored on a secure database  accessible only to authorized personnel.
 SE:All credit card information will be encrypted in the database.
 SE:The streaming server will have anti-virus software to prevent infection of malicious viruses.
@@ -291,7 +291,7 @@ F:Website shall allow the Izogn administrator to approve a review posted by a cu
 F:System will allow customers to pay for a streaming movie with a pre-paid card.
 F: Website shall allow customers to purchase pre-paid cards of $5  $10  or $20 value either by credit card or mail-in payment option.
 F: System shall automatically update the main page of the website every Friday  and show the 4 latest movies that have been added to the website.
-F:System shall allow users to update their billing and contact information via the �My Account� section of the website.
+F:System shall allow users to update their billing and contact information via the 'My Account' section of the website.
 F: Pre-paid cards shall be distributed via email  or via a printed paper card.
 F:Only registered customers can purchase streaming movies.
 F: Movies can only be streamed if the customer has purchased a movie  and is within the 2-day time period to stream the movie.
@@ -371,7 +371,7 @@ F:If the shot was marked as a hit  the product shall allow the offensive player 
 F:If the shot was marked as a miss  the product shall change the status of the offensive player to defensive
 F:If the shot was marked as a miss  the product shall change the status of the defensive player to offensive
 F:The product shall continue to assign turns until the game is ended.
-F:The product shall end a game when a hit by the offensive player results in sinking the last of the defensive player�s ships  which had not been previously marked as sunk.
+F:The product shall end a game when a hit by the offensive player results in sinking the last of the defensive player's ships  which had not been previously marked as sunk.
 F:The product shall allow a player to end a game at any time during the game.
 F:When a game is ended  the product shall notify the players that the game is ended.
 F:The notification of the game ending will include the reason the game is ended (i.e.  a player has won the game or a player has ended the game).
@@ -386,7 +386,7 @@ A:The system shall have high availability every day of the year.The system must 
 A:The system must be available for use between 7:00AM and 11:59PM all days of the year.
 MN:The product shall be internet browser independent.The product must run using Internet Explorer and Netscape Navigator.
 SE:The product shall ensure that only supervisors can advertise empty time slots.The product must ensure that supervisors are allowed to access advertise empty time slots.
-SE:The product shall ensure that only supervisors can enter a caller�s schedule.The product must ensure that supervisors are allowed to access advertise empty time slots.
+SE:The product shall ensure that only supervisors can enter a caller's schedule.The product must ensure that supervisors are allowed to access advertise empty time slots.
 SE:The product shall ensure that only supervisors can view schedule of all callers.The product must ensure that supervisors are allowed to access advertise empty time slots.
 LF:The interface shall have a simple look. In the interface and usability survey  90% of beta testers must report that the interface is adequately simple.
 LF:The interface shall be appealing to callers and supervisors. In the interface and usability survey  80% of beta testers must report that the interface is appealing.
@@ -415,14 +415,14 @@ SE:The product shall have audit capabilities.The product shall store messages fo
 LF:The system shall use IBM and CCR branding standards. The interface must have one IBM logo and one CCR logo.
 LF:The system shall be displayable on any work computer a CCR user may have. The system interface shall be formatted to display at 800 by 600 pixel resolution.
 LF:The system interface will use CCR nomenclature. The system must use the same nomenclature used in the existing WCS system and reports
-LF:The interface must summarize the data in a fashion that�s appealing to CCR management. Every report type must have at least one high level summary shown in the results dashboard/interface
+LF:The interface must summarize the data in a fashion that's appealing to CCR management. Every report type must have at least one high level summary shown in the results dashboard/interface
 US:The system must use a point and click interface. 100% of all selection and navigation functionality must be able to be activated/selected by either a mouse or a keyboard
 US:The interface shall be easy to use. 90% of users should be able to successfully use the system to generate a report on their first use. The interface should adhere to IBM usability standards.
 US:Rreports must be easy to generate. eports must be generated within one button click and exported within one button click (after selecting the report)
 US:A user shall be able to use the system without instruction after a short amount of time. After one use a user should understand and remember 90% of the system usage and navigation.
 US:All CCR users shall receive training before the WCS system is deployed. One training session will be held for 100% of CCR users before system deployment (based on a CCR user being available)
 US:The WCS system shall use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization. All interfaces and reports will undergo usability tests by CCR users.
-A:The WCS system shall be available at all times as long as IBM�s internal intranet W3 is accessible. The WCS system will be available 95% of the time IBM�s internal intranet W3 is available.
+A:The WCS system shall be available at all times as long as IBM's internal intranet W3 is accessible. The WCS system will be available 95% of the time IBM's internal intranet W3 is available.
 SC:The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.
 SC:The WCS system shall have the ability to include data for regions outside the United States and be accessed by users outside of the United States if approved by CCR management.
 O:The WCS system shall be run in a Windows environment. The WCS shall be accessed by users through the Internet on an IBM computer running a Windows 2000 or above operating system.
@@ -430,14 +430,14 @@ O:The Brio portion of the WCS system must be able to export files in spreadsheet
 MN:The WCS system must run queries to the WCS databases once again (on a specified day) to update the available data available to CCR users. Queries must be made to external databases for data refresh once a week.
 MN: All changes  updates  and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides. Every change must be reflected in WCS system documentation
 SE:The system shall only be accessed by authorized Corporate Community Grants (CCR) employees. Users must be authenticated using their IBM intranet user name and password.
-SE:The WCS system shall not allow automatic logins by any user. Cookies containing WCS login information about a user will not be stored on a user�s computer.
-SE:Each team owner will need to use a username and password in order to be authenticated to reach the team owner�s page
+SE:The WCS system shall not allow automatic logins by any user. Cookies containing WCS login information about a user will not be stored on a user's computer.
+SE:Each team owner will need to use a username and password in order to be authenticated to reach the team owner's page
 SE:The Commissioner will be the only authorized user per league to adjust league settings.
 LF:Each page shall contain a navigation menu which shows the index into which the current page is contained.
 LF:Each page shall contain a similar format with action items in one location and navigation buttons in a different location.
 LF:The message board shall contain the 5 most recently posted messages on the league page. The messages will contain up to the first 150 characters of the message.
 US:A new user shall be able to navigate through the league and team pages within 30 seconds of reaching the start-up page.
-US:Users shall be able to reach the �add�  �drop�  and �trade player� pages with one click from the team owner�s page.
+US:Users shall be able to reach the 'add'  'drop'  and 'trade player' pages with one click from the team owner's page.
 US:Users shall be able to view at least 25 NFL player statistics and points on each page.
 US:The application shall ask the user to confirm dropping a player or trading a player before performing the action.
 PE:The application shall be able to complete every user transaction within one fourth of a second of receiving the request over the network.
@@ -450,7 +450,7 @@ MN:New System version releases shall be released at the beginning of each NFL se
 A:The RFS system should be available 24/7  especially during the budgeting period. The RFS system shall be available 90% of the time all year  and 98% during the budgeting period. 2% of the time  the system will become available within 1 hour of the time that the situation is reported.
 O:98% of the user workstations shall meet the minimum hardware requirements prior to implementation. Minimum Hard Disk Space:  400MB.
 O:98% of the user workstations shall meet the minimum software requirements prior to implementation: Microsoft Internet Explorer 5.0. Microsoft .NET Framework 1.1. Microsoft Internet Explorer Web Controls
-O:"The RFS system should be able to easily interface with the BDW environment  in order to load the data. �	7 data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process  every year. The data will be as of October month-end. 	Test files (7) shall be loaded up to 5 times throughout the year  from the BDW."
+O:"The RFS system should be able to easily interface with the BDW environment  in order to load the data. "	7 data files shall be received from the BDW and loaded into the RFS system within 3 hours one day prior to the start of budgeting process  every year. The data will be as of October month-end. 	Test files (7) shall be loaded up to 5 times throughout the year  from the BDW."
 MN:Changes to revenue and expense formulae must be applied to the RFS system  every year  prior to the budgeting process start. Revenue and expense formulae will be updated within one week of their receipt  after which 2 weeks will be allotted to testing of the budget calculations  to be conducted jointly by the project development team and PCG Finance.
 MN:New branches/complexes/districts/regions and revenue/expense accounts added to the BDW  must be reflected in the RFS system. 100% of the entities (mentioned above) available as of October month-end  will be loaded into the RFS system  prior to the budget start process.
 SE:Only authorized user shall access the RFS system. ONLY users that exist in the UAS system  with the RFS system assigned to their role(s)  shall access the RFS system and use it.
@@ -535,24 +535,24 @@ SC:The system shall be expected to manage the nursing program curriculum and cla
 O:The system shall able to operate within a business office environment typical of the Nursing Department at DePaul University.
 O:The system shall be used within the specifications defined by the computers used by the Program Administrators/Nursing Staff Members.
 O:The system shall operate within the Windows XP Professional operating system.
-O:The system shall interface with CampusConnect�s central server
+O:The system shall interface with CampusConnect's central server
 O:The system shall interface with the faculty central server.
 O:The system shall interface with the student master server.
 O:We must be able to interface with any HTML browser.
 SE:Only authorized users shall have access to clinical site information.
 SE:Program Administrators/Nursing Staff Members are the only people who shall have access to clinical site details.
-SE:Only authorized users shall have access to students� personal information.
-SE:Dr Susan Poslusny and Dr Julie Donalek are the only people who shall have access to students� personal information.
+SE:Only authorized users shall have access to students' personal information.
+SE:Dr Susan Poslusny and Dr Julie Donalek are the only people who shall have access to students' personal information.
 SE:Only authorized users shall have access to the portion of the system that interfaces with CampusConnect.
 SE:Fit Criterion: Dr Susan Poslusny and Karen Sysol are the only people who shall have access to the final class section scheduling for the system that interfaces with CampusConnect.
 SE:The system shall have basic data integrity checking to reduce the possibility of incorrect or invalid data being introduced.
-SE:The system shall protect private information in accordance with the organization�s information policy.
+SE:The system shall protect private information in accordance with the organization's information policy.
 SE:The system shall be built such that it is as secure as possible from malicious interference.
-SE:The system shall use the organization�s standard virus protection software to help monitor threats to itself.
+SE:The system shall use the organization's standard virus protection software to help monitor threats to itself.
 F:A cohort shall be associated to one Program of Study offered by the department.
 F:Program Administrators and Nursing Staff Members shall be able to add a listing of students to a cohort.
 F:Program Administrators and Nursing Staff Members shall be able to add a single student to a cohort
-F:Students added to a cohort shall be eligible for the cohort�s Program of Study.
+F:Students added to a cohort shall be eligible for the cohort's Program of Study.
 F:Program Administrators and Nursing Staff Members shall be able to specify the preferred sequence of classes for a given cohort.
 F: For each class within a sequence for a cohort  Program Administrators and Nursing Staff Members shall be able to specify which quarter that class will be offered.
 F: For each class within a sequence for a cohort  Program Administrators and Nursing Staff Members shall be able to specify which quarter that class will be offered.
@@ -566,7 +566,7 @@ F: A clinical class shall specify the course name  lecture room requirements  cl
 F:Program Administrators/Nursing Staff Members shall be able to create a new Program of Study.
 F:A Program of Study shall consist of a program name and listing of required classes (both clinical and non-clinical) that must be completed.
 F:Program Administrators and Nursing Staff Members shall have the ability to specify which classes are required for a Program of Study
-F:The system shall be able to display a report of needed classes for a given quarter for all cohorts of all programs for Program Administrators/Nursing Staff Members� planning purposes.
+F:The system shall be able to display a report of needed classes for a given quarter for all cohorts of all programs for Program Administrators/Nursing Staff Members' planning purposes.
 F: The report of needed classes shall include (but not be limited to) classes to be offered  number of sections needed  number of labs needed  and room types needed.
 F:Classes for a given cohort shall not conflict with regards to the time and day that they are offered.
 F:Program Administrators and Nursing Staff Members shall be able to add a new clinical site into the system.
@@ -589,8 +589,8 @@ F:The system will use the stored e-mail addresses as a primary means of communic
 F: The system will notify affected parties for routine communication purposes  including but not limited to informing students of upcoming offered classes (timeline) and what their schedule will be/shall be.
 F: The system will notify affected parties when changes occur affecting clinicals  including but not limited to clinical section capacity changes  and clinical section cancellations.
 F: The system will notify affected parties when changes occur affecting classes  including but not limited to class cancellations  class section detail changes  and changes to class offerings for a given quarter.
-F: The system will notify affected parties when changes occur affecting cohorts  including but not limited to changes to the sequence for a cohort�s program of study and changes to a given week�s schedule (lab cancelled this week due to instructor illness).
-F: The system will notify affected parties when changes occur affecting specific students  including but not limited to changing a student�s status from full time to part time and moving a student to a different clinical section.
+F: The system will notify affected parties when changes occur affecting cohorts  including but not limited to changes to the sequence for a cohort's program of study and changes to a given week's schedule (lab cancelled this week due to instructor illness).
+F: The system will notify affected parties when changes occur affecting specific students  including but not limited to changing a student's status from full time to part time and moving a student to a different clinical section.
 F: Program Administrators/Nursing Staff Members shall have the ability to modify information relating to cohorts  including cohort identifier  program of study  preferred sequence of classes and quarters that a cohort will be taking specific classes.
 F: Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Program of Study within the Nursing Department  including the Program of study name  and required classes for that Program of Study.
 F: Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Clinical Site  including the clinical site name  site contact person  contact information  and address.
@@ -604,17 +604,17 @@ US:100% of cardmember services representatives shall be able to successfully cre
 US:100% of merchant services representatives shall be able to successfully perform a follow up action on a dispute case on the first encounter after completing the training course.
 PE:The maximum wait time for a user navigating from one screen to another within the Disputes application shall be no more than 5 seconds.
 PE:The Disputes application shall support 350 concurrent users without any degradation of performance in the application.
-O: The Disputes application shall be available 24x7x365  with the exception of the following scheduled maintenance windows.  Monday � Saturday 3:00am to 4:00am EST Sunday 1:00amd to 5:00am EST
+O: The Disputes application shall be available 24x7x365  with the exception of the following scheduled maintenance windows.  Monday ' Saturday 3:00am to 4:00am EST Sunday 1:00amd to 5:00am EST
 O:The Disputes application shall interface with the Statement Database. The Statement Database provides the transaction details to the Disputes System. All transaction details must be obtained from the Statement Database
 O:The Disputes application shall interface with the Cardmember Information Database.  The Cardmember Information Database provides detailed information with regard to a cardmember.  All cardmember detail information must be obtained from the Cardmember Information Database.
 O:The Disputes applications shall interface with the Merchant Information Database.  The Merchant Information Database provides detailed information with regard to the merchant. All merchant detail information shall be obtained from the Merchant Information Database.
 O:The Disputes application shall interface with the Letters application.  This will allow the Disputes application to request letters as part of the dispute initiation and dispute follow up process. All letter requests must be sent to the Print Letter Utility application.
-O:The Disputes application shall interface with the Cardmember Posting and Billing System.  This will allow the Disputes application to request adjustments to cardmember and merchant�s accounts. All adjustment requests must be sent to the Cardmember Posting and Billing System.
+O:The Disputes application shall interface with the Cardmember Posting and Billing System.  This will allow the Disputes application to request adjustments to cardmember and merchant's accounts. All adjustment requests must be sent to the Cardmember Posting and Billing System.
 SE:The Disputes application shall ensure that only users with the appropriate access level are allowed to initiate dispute requests.
 SE:Only users with Update access must be able to initiate dispute requests.
 SE:The Disputes application shall ensure that only authorized users are allowed to logon to the application.
 SE: All authorized users  once authenticated must be able to logon to the Disputes System
-SE:The Disputes System shall generate a User Report that details any new users that have been added and any changes to an existing user�s access level.  The report will be reviewed for auditing purposes.
+SE:The Disputes System shall generate a User Report that details any new users that have been added and any changes to an existing user's access level.  The report will be reviewed for auditing purposes.
 SE:All additions of new users and modifications to users access shall be recorded on the User Report.
 SE: If a user account is revoked  it can only be re-instantiated by the System Administrator.
 SE:Only the System Administrator shall be able to reset a revoked user logon account
